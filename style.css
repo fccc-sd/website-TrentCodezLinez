@@ -1,8 +1,9 @@
 header {
-    color: rgb(71, 71, 165);
+    color: #4747a5;
     text-align: center;
 }
 
 body {
-    background-color: rgb(0, 51, 0);
+    background-color: #0400ff;
+    color: lightgreen;
 }
