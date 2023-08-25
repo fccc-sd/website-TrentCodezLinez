@@ -1,9 +1,11 @@
 header {
     color: #4747a5;
+    
     text-align: center;
 }
 
 body {
     background-color: #0400ff;
+
     color: lightgreen;
 }
