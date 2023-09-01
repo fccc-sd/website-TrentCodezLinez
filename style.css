@@ -1,11 +1,11 @@
-header {
+h1 {
     color: #4747a5;
     
     text-align: center;
 }
 
 body {
-    background-color: #040361;
+    background-color: rgb(20, 0, 56);
 }
 
 h2{
@@ -14,4 +14,12 @@ h2{
 
 p{
     color: yellow;
+}
+
+ul{
+    color: rgb(95, 70, 5);
+}
+
+h6{
+    color: rgb(173, 173, 85);
 }
