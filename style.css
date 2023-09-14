@@ -9,17 +9,44 @@ body {
 }
 
 h2{
-    color: darkgoldenrod;
+    color: goldenrod;
+    font-family: cursive;
+    font-style: italic;
 }
 
 p{
     color: yellow;
+    font-family: sans-serif;
+    font-weight: lighter;
 }
 
 ul{
     color: rgb(95, 70, 5);
+    font-weight: bolder;
 }
 
 h6{
     color: rgb(173, 173, 85);
+}
+
+span{
+    color: orange;
+}
+
+div{
+    color: greenyellow;
+
+}
+
+header{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+main{
+    font
+}
+
+footer{
+    font-size: small;
 }
