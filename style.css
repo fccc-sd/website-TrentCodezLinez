@@ -5,7 +5,7 @@ h1 {
 }
 
 body {
-    background-color: #140038;
+    
 }
 
 h2{
@@ -15,7 +15,7 @@ h2{
 }
 
 p{
-    color: yellow;
+    color: #ffff00;
     font-family: sans-serif;
     font-weight: lighter;
 }
@@ -45,4 +45,16 @@ header{
 
 a{
     color: rgb(82, 49, 6);
+}
+
+img{
+    vertical-align: middle;
+}
+
+nav{
+    background-color: #1d0053;
+}
+
+nav a:link{
+    color: aqua;
 }
