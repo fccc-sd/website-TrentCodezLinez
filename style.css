@@ -1,60 +1,89 @@
-h1 {
+h1
+{
     color: #4747a5;
     
     text-align: center;
 }
 
-body {
+body
+{
     
 }
 
-h2{
+h2
+{
     color: goldenrod;
     font-family: cursive;
     font-style: italic;
 }
 
-p{
+p
+{
     color: #ffff00;
     font-family: sans-serif;
     font-weight: lighter;
 }
 
-ul{
+ul
+{
     color: rgb(175, 130, 14);
     font-weight: bolder;
 }
 
-h6{
+h6
+{
     color: rgb(173, 173, 85);
 }
 
-span{
+span
+{
     color: #ffa500;
 }
 
-div{
+div
+{
     color: rgb(64, 255, 47);
 
 }
 
-header{
+header
+{
     font-weight: bolder;
     font-size: xx-large;
 }
 
-a{
+a
+{
     color: rgb(82, 49, 6);
 }
 
-img{
+img
+{
     vertical-align: middle;
 }
 
-nav{
+nav
+{
     background-color: #1d0053;
 }
 
-nav a:link{
-    color: aqua;
+nav a:link
+{
+    color: rgb(178, 121, 235);
+}
+
+nav a:visited
+{
+    color: rgb(203, 151, 255);
+}
+
+nav a:active
+{
+    color: rgb(50, 21, 236);
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
 }
